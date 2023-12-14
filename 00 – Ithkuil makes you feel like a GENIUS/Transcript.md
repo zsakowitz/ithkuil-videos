@@ -262,10 +262,13 @@ Languages on Earth have anywhere from two to thirty-nine cases. Ithkuil has 68, 
 - Stems help add nuance
 - Specifications focus on parts of a word
 - Cases specify precise relationships
+- *(more grammar in future videos)*
 
 notes:
 
-All of this means that when I use Ithkuil, you can be as general or as exact as you like. You can use stem, specification, case, and other grammatical categories to be so precise that twenty thousand peo
+When you use Ithkuil, you can be as general or as exact as you like. You can use stem, specification, case, and other grammatical categories to be so precise that twenty thousand people could read your work and understand it almost identically. Or you can leave it ambiguous, making your readers question and ponder on the meaning of the passage.
+
+And so when I use Ithkuil, I know that 
 
 All of this is why when I use Ithkuil, I feel like a genius. I can start from just a handful of roots, like -ZV- for canine or -L- for person, and make dozens of words just off the top of my head. One root in Ithkuil takes you much further than the same word in English.
 
