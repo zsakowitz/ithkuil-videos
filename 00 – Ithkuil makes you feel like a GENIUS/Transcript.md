@@ -182,7 +182,7 @@ For example, the root -MZM-, or trace/memorial/archive, has three core stems. Th
 
 notes:
 
-The second part of stem and specification is specification. Specification lets you pick which aspect of a stem to focus on. The stem "trace" can turn into "for a trace to be left behind", the trace itself, the act of leaving a trace behind, or what the trace indicates.
+The second part of stem and specification is specification. It lets you pick which aspect of a stem to focus on. The stem "trace" can turn into "for a trace to be left behind", the trace itself, the act of leaving a trace behind, or what the trace indicates.
 
 ---
 ## Stem and specification
