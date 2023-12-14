@@ -14,8 +14,8 @@ Hi friends. My name is Zachary, and this is a brief introduction to the language
 ## What do these mean?
 
 - We've just won the lottery!
-+ His rescue was worrying.
-+ I liked their gift.
+- His rescue was worrying.
+- I liked their gift.
 
 notes:
 
@@ -259,20 +259,13 @@ Languages on Earth have anywhere from two to thirty-nine cases. Ithkuil has 68, 
 ---
 # Ithkuil makes you feel like a GENIUS
 
-- Stems help add nuance
-- Specifications focus on parts of a word
-- Cases specify precise relationships
-- *(more grammar in future videos)*
+- Nobody mistakes your words
+- Meanings can be elaborated
+- You don't need to memorize as much
 
 notes:
 
-When you use Ithkuil, you can be as general or as exact as you like. You can use stem, specification, case, and other grammatical categories to be so precise that twenty thousand people could read your work and understand it almost identically. Or you can leave it ambiguous, making your readers question and ponder on the meaning of the passage.
-
-And so when I use Ithkuil, I know that 
-
-All of this is why when I use Ithkuil, I feel like a genius. I can start from just a handful of roots, like -ZV- for canine or -L- for person, and make dozens of words just off the top of my head. One root in Ithkuil takes you much further than the same word in English.
-
-And because of the grammatical structures, I'll know that anyone reading what I wrote will know exactly what I meant. No more worrying about whether you're conveying something precisely enough: Ithkuil lets you be as ambiguous or precise as you want.
+All of this means that when I use Ithkuil, I know that nobody will ever mistake my words for something I didn't say. I know that I can elaborate on my meaning as much or as little as I like. I know that I can use just a few roots to make twenty thousand sentences. And all that makes me feel like a genius.
 
 ---
 ## Further resources
