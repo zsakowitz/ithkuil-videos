@@ -60,7 +60,7 @@ Notice how similar these two translations are. Everything about the sentence is 
 
 As a final example here, I'd like to show how we can change the ending of **hlaemo** even further. If I change it to **hlaemié**, now it means "the rescue in his presence was worrying."
 
-The regularity and systemic nature of this word ending system means that it's more expressive and fluid than any other language on Earth.
+The regularity and systemic nature of this word ending system means that Ithkuil can express a myriad of word roles in a given sentence without you needing to memorize the hundred fifty prepositions that English has.
 
 If you speak Russian, German, Sanskrit, or any of the hundreds of language that use changes in a word itself to mark what it does, you can probably guess that this is called a **case system**. Ithkuil's case system is more advanced than any other, and we'll talk about it later.
 
@@ -107,7 +107,7 @@ In English, you have to learn the same word six times.
 | grove   | alḍat    |
 | jungle  | alḍaṭ    |
 | wood    | alḍazex  |
-| orchard | alḍanļtex |
+| orchard | alḍaltex |
 |         |          |
 
 notes:
@@ -121,15 +121,15 @@ You might wonder what these literally translate to.
 ---
 ## Literal translations
 
-|         |           |                     |          |
-| ------- | --------- | ------------------- | -------- |
-| tree    | alḍal     |                     |          |
-| forest  | alḍaz     | somewhat similar    | separate |
-| grove   | alḍat     | similar             | separate |
-| jungle  | alḍaṭ     | dissimilar          | separate |
-| wood    | alḍazex   | *(see forest)*      | small    |
-| orchard | alḍanļtex | purposeful, similar | small    |
-|         |           |                     |          |
+|         |          |                     |          |
+| ------- | -------- | ------------------- | -------- |
+| tree    | alḍal    |                     |          |
+| forest  | alḍaz    | somewhat similar    | separate |
+| grove   | alḍat    | similar             | separate |
+| jungle  | alḍaṭ    | dissimilar          | separate |
+| wood    | alḍazex  | *(see forest)*      | small    |
+| orchard | alḍaltex | purposeful, similar | small    |
+|         |          |                     |          |
 
 notes:
 
@@ -141,7 +141,7 @@ This grouping mechanic is already very powerful, but Ithkuil lets us do so much 
 
 Wood, or *alḑazex* in Ithkuil, is almost identical to the word for forest; we've just added the suffix *-ex*, meaning "small".
 
-And orchard, or *alḑanļtex*, is a purposeful, small forest. Look at it! The -t- at the end of -nļt- is the same as the -t- in grove, and the -ex- is the same as the -ex- of wood.
+And orchard, or *alḑaltex*, is a purposeful, small forest. Look at it! The -t- at the end of -nļt- is the same as the -t- in grove, and the -ex- is the same as the -ex- of wood.
 
 ---
 ## Stem
@@ -204,34 +204,36 @@ And I haven't cherry-picked the root -MZM-. Every root word adheres to this stem
 ---
 ## Conjugations of -L-
 
-|        |                            |
-| ------ | -------------------------- |
-| alal   | adult human                |
-| elal   | human child                |
-| olal   | any human being            |
-| olat   | a tribe of people          |
-|        |                            |
+|       |                   |
+| ----- | ----------------- |
+| alal  | adult human       |
+| elal  | human child       |
+| olal  | any human being   |
+| olat  | a group of people |
+| olalt | a tribe of people |
+|       |                   |
 
 notes:
 
-Here are some of the basic ways to modify the root -L-. The most basic form is *alal*, an adult human. Let's change it to stem 2, *elal*, meaning "human child". Or we could use the ambiguous meaning, *olal*, or "human being". Let's make it a group, *olat*, or a tribe of people.
+Here are some of the basic ways to modify the root -L-. The most basic form is *alal*, an adult human. Let's change it to stem 2, *elal*, meaning "human child". Or we could use the ambiguous meaning, *olal*, or "human being". Let's make it a group of people, *olat*. We could even add a sense of purpose to them with *olalt*, making them a tribe of people.
 
 Look how simple that was! It's not conjugation; that implies irregularity and weirdness. Ithkuil's word modification system is entirely regular, and works on any word.
 
 ---
 ## Conjugations of -ZV-
 
-|       |                   |
-| ----- | ----------------- |
-| azval | domestic dog      |
-| ezval | gray wolf         |
-| ozval | any common canine |
-| ozvat | a pack of canines | 
-|       |                   |
+|        |                    |
+| ------ | ------------------ |
+| azval  | domestic dog       |
+| ezval  | gray wolf          |
+| ozval  | any common canine  |
+| ozvat  | a group of canines |
+| ozvalt | a pack of canines  |
+|        |                    |
 
 notes:
 
-Here are the same modifications, but on the root -ZV-, meaning canine. The default form, *azval*, means a domestic dog. We can change it to the stem 2 of *ezval*, or gray wolf. Or the ambiguous stem, *ozval*, any common canine. And finally, we add the same grouping consonant of T, making it *ozvat*, a pack of canines.
+Here are the same modifications, but on the root -ZV-, meaning canine. The default form, *azval*, means a domestic dog. We can change it to the stem 2 of *ezval*, or gray wolf. Or the ambiguous stem, *ozval*, any common canine. Then, we add the same grouping consonant of T, making it *ozvat*, a group of canines. And finally, we add a sense of purpose with the consonant L, turning it into *ozvalt*, a pack of canines.
 
 ---
 ## Case
