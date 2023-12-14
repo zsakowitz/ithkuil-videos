@@ -32,16 +32,16 @@ All three of these have a lot of ambiguity present, even though they're quite si
 ---
 ### We've just won the lottery.
 
-- Imbradulföwá šre. (you and I)
-- Imbradulföwá pre. (he/she/they and I)
-- Imbradulföwá špre. (you and they and I)
-- Imbradulföwá tre. (you all and I)
+- Imbradulföwá sle. (you and I)
+- Imbradulföwá mle. (he/she/they and I)
+- Imbradulföwá smle. (you and they and I)
+- Imbradulföwá nle. (you all and I)
 
 notes:
 
-Here are four ways I might translate the first sentence into Ithkuil. The first word, *imbradulföwá*, roughly means "to have just won the lottery". It's the same across all four sentences. But the second word changes depending on the context. I could use *šre*, meaning you and I. Or I could use *pre*, meaning he/she/they and I. If all three of us won the lottery, I could even say *špre*, meaning you, he/she/they, and I. And if I'm speaking to a crowd, I might use *tre*, meaning you all and I.
+Here are four ways I might translate the first sentence into Ithkuil. The first word, *imbradulföwá*, roughly means "to have just won the lottery". It's the same across all four sentences. But the second word changes depending on the context. I could use *sle*, meaning you and I. Or I could use *pre*, meaning they (singular) and I. If all three of us won the lottery, I could even say *smle*, meaning you, they, and I. And if I'm speaking to a crowd, I might use *nle*, meaning you all and I.
 
-One thing I'd like to point out here is how regular these words are. You can probably guess just from these examples that the R in *šre*, *pre*, *špre*, and *tre* means me. And by comparing, you can also see that the Š means you. I'd like to emphasize this: these letters never change. R always means me, Š always means you, and P always means they.
+One thing I'd like to point out here is how regular these words are. You can probably guess just from these examples that the L in *sle*, *mle*, *smle*, and *nle* means me. And by comparing, you can also see that the S means you. I'd like to emphasize this: these letters never change. L always means me, S always means you, and M always means they (singular).
 
 ---
 ### His rescue was worrying.
