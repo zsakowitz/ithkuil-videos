@@ -6,8 +6,6 @@ controls: false
 
 notes:
 
-(add examples of ambiguous english: we just won the lottery, I brought snacks for everyone, etc.)
-
 Hi friends. My name is Zachary, and this is a brief introduction to the language of Ithkuil. When I write and use Ithkuil, I feel like a genius. I'll tell you why in a moment, but first I'd like to ask you two questions.
 
 ---
@@ -42,6 +40,17 @@ notes:
 Here are four ways I might translate the first sentence into Ithkuil. The first word, *imbradulföwá*, roughly means "to have just won the lottery". It's the same across all four sentences. But the second word changes depending on the context. I could use *sle*, meaning you and I. Or I could use *pre*, meaning they (singular) and I. If all three of us won the lottery, I could even say *smle*, meaning you, they, and I. And if I'm speaking to a crowd, I might use *nle*, meaning you all and I.
 
 One thing I'd like to point out here is how regular these words are. You can probably guess just from these examples that the L in *sle*, *mle*, *smle*, and *nle* means me. And by comparing, you can also see that the S means you. I'd like to emphasize this: these letters never change. L always means me, S always means you, and M always means they (singular).
+
+---
+### Quick aside: what is Ithkuil?
+
+- Created by John Quijada
+- Philosophical language
+- Final, learnable version
+
+notes:
+
+Before we get onto the next sentence, I'd like to quickly introduce Ithkuil. It's a constructed language created by a person named John Quijada. The first version was published in 2004, but the version I'm talking about, a version which normal, everyday people can learn, was published in 2023. It's meant primarily for philosophy and describing complicated things, but it's also a 
 
 ---
 ### His rescue was worrying.
