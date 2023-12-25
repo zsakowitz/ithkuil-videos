@@ -45,12 +45,12 @@ One thing I'd like to point out here is how regular these words are. You can pro
 ### Quick aside: what is Ithkuil?
 
 - Created by John Quijada
-- Philosophical language
-- Final, learnable version
+- Meant for philosophy
+- People can learn it
 
 notes:
 
-Before we get onto the next sentence, I'd like to quickly introduce Ithkuil. It's a constructed language created by a person named John Quijada. The first version was published in 2004, but the version I'm talking about, a version which normal, everyday people can learn, was published in 2023. It's meant primarily for philosophy and describing complicated things, but it's also a 
+Before we get onto the next sentence, I'd like to quickly introduce Ithkuil. It's a language created by a person named John Quijada. The first version was published in 2004, but the version I'm talking about, a version which normal, everyday people can learn, was published in 2023. It's meant primarily for philosophy and describing complicated things, but it's also a very regular language which can express concepts that we see every day without any ambiguity.
 
 ---
 ### His rescue was worrying.
@@ -286,7 +286,7 @@ notes:
 
 We're out of time. There's so many things I didn't talk about, like how you can make compound words with Concatenation, mark comparisons with Level, precisely specify time with Aspect, or mark how you know something with Validation.
 
-If you'd like to learn more about Ithkuil, I'd recommend looking at ithkuil.net. It's a wonderful site by the creator of Ithkuil himself (did I mention Ithkuil was created by a single person?), and it goes over everything in great detail.
+If you'd like to learn more about Ithkuil, I'd recommend looking at [ithkuil.net](https://ithkuil.net). It's a wonderful site by the creator of Ithkuil himself, and it goes over everything in great detail.
 
 Transcripts and sources for this video are available on GitHub. Links in the description.
 
