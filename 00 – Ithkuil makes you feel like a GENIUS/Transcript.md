@@ -177,6 +177,7 @@ For example, the root -MZM-, or trace/memorial/archive, has three core stems. Th
 | the trace itself         | the memorial itself        | the archive itself        |
 | leaving a trace behind   | leaving a memorial behind  | leaving an archive behind |
 | what the trace indicates | what the memorial is about | what the archive is about |
+|                          |                            |                           |
 
 ---
 ## Specification
